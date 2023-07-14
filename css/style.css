@@ -124,7 +124,7 @@ cursor:pointer;
   color: var(--navyblue);
 font-size: 1.25rem;
 font-weight: 500;
-line-height: 1.2rem; /* 120% */
+line-height: 1.2; /* 120% */
 letter-spacing: 0.025rem;
 }
 
