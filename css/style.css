@@ -145,6 +145,10 @@ letter-spacing: 0.045rem;
 text-transform: capitalize;
 }
 
+.second-heading-team{
+  line-height: 1.11
+}
+
 .team{
   background-color: var(--cloud);
 }
