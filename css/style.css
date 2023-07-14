@@ -35,7 +35,7 @@ body{
   font-family: Raleway, sans-serif;
   font-size: 1.125rem;
   font-weight: 800;
-  line-height: 1.3125rem; 
+  line-height: 1.17; 
   letter-spacing: 0.03375rem;
   text-transform: uppercase;
 }
@@ -80,9 +80,9 @@ letter-spacing: 0.02rem;
   color:var(--ocean)
 }
 
-.address{
+address{
 
-  gap: 2.5rem;
+  font-style:normal;
 }
 
 /*Introduction*/
