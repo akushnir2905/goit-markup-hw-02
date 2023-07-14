@@ -149,6 +149,10 @@ text-transform: capitalize;
   line-height: 1.11;
 }
 
+.second-heading-doing{
+  line-height: 1.11;
+}
+
 .team{
   background-color: var(--cloud);
 }
