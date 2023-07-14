@@ -80,7 +80,7 @@ letter-spacing: 0.02rem;
   color:var(--ocean)
 }
 
-address{
+.address{
 
   font-style:normal;
 }
