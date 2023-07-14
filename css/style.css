@@ -152,6 +152,10 @@ text-transform: capitalize;
 .team-list{
   background-color: var(--white);
 }
+
+.list-item{
+  background-color: var(--white)
+}
 /*Portfolio buttons*/
 
 .portfolio-navigation-btn{
