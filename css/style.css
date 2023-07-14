@@ -132,6 +132,7 @@ letter-spacing: 0.025rem;
 font-size: 1rem;
 line-height: 1.5rem; /* 150% */
 letter-spacing: 0.02rem;
+color: var(--slate)
 }
 
 .second-heading{
