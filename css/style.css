@@ -38,10 +38,11 @@ body{
   line-height: 1.17; 
   letter-spacing: 0.03375rem;
   text-transform: uppercase;
+  color: var(--iris)
 }
 
-.web{
-  color: var(--iris);
+.studio{
+  color: var(--cloud);
 }
 
 
@@ -194,10 +195,10 @@ cursor:pointer;
 .footer-logo{
   color: var(--cloud);
   text-transform:uppercase;
-font-family: Raleway;
+font-family: Raleway, sans-serif;
 font-size: 1.125rem;
 font-weight: 800;
-line-height: 1.3125rem; /* 116.667% */
+line-height: 1.17; /* 116.667% */
 letter-spacing: 0.03375rem;
 
 }
