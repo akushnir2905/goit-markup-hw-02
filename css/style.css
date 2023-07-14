@@ -46,12 +46,6 @@ body{
 }
 
 
-.header-menu{
- 
-gap: 2.5rem;
-
-}
-
 .header-menu-link{
   color: var(--navyblue);
 font-size: 1rem;
@@ -82,20 +76,14 @@ letter-spacing: 0.02rem;
 }
 
 .address{
-
   font-style:normal;
 }
 
 /*Introduction*/
 
 .introduction{
-  
   background-color: var(--navyblue);
   color: var(--white);
-  
-
-
-
 }
 
 .main-header{
@@ -103,17 +91,11 @@ font-size: 56px;
 font-weight: 700;
 line-height: 107.142857%; /* 60/56 */
 letter-spacing: 0.07rem;
-
 text-align: center;
-
 }
 
 .introduction-button{
-  
-gap: 10px;
-
 background-color: var(--iris);
-
 font-family: inherit;
 font-size: 16px;
 font-style: normal;
@@ -121,7 +103,6 @@ font-weight: 500;
 line-height: 24px;
 letter-spacing: 0.64px;
 color: var(--white);
-width: 10rem;
 cursor:pointer;
 }
 
@@ -192,11 +173,11 @@ cursor:pointer;
 
 .footer{
   background-color: var(--navyblue);
-  height: 19.5rem;
+ 
 }
 
 .footer-logo{
-  color: var(--cloud);
+  color: var(--iris);
   text-transform:uppercase;
 font-family: Raleway, sans-serif;
 font-size: 1.125rem;
