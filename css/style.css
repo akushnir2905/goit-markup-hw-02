@@ -46,8 +46,7 @@ body{
 
 
 .header-menu{
-  display: inline-flex;
-align-items: flex-start;
+ 
 gap: 2.5rem;
 
 }
@@ -82,8 +81,7 @@ letter-spacing: 0.02rem;
 }
 
 .address{
-  display: inline-flex;
-  align-items: flex-end;
+
   gap: 2.5rem;
 }
 
@@ -104,22 +102,17 @@ font-size: 56px;
 font-weight: 700;
 line-height: 107.142857%; /* 60/56 */
 letter-spacing: 0.07rem;
-display: flex;
-width: 31rem;
-flex-direction: column;
-flex-shrink: 0;
+
 text-align: center;
 
 }
 
 .introduction-button{
-  display: inline-flex;
-padding: 16px 32px;
-align-items: flex-start;
+  
 gap: 10px;
-border-radius: 4px;
+
 background-color: var(--iris);
-box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+
 font-family: inherit;
 font-size: 16px;
 font-style: normal;
@@ -138,19 +131,7 @@ cursor:pointer;
 
 /*Principles*/
 
-.hidden{
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  border: 0;
-  padding: 0;
-  
-  white-space: nowrap;
-  clip-path: inset(100%);
-  clip: rect(0 0 0 0);
-  overflow: hidden;
-}
+
 
 .third-header{
   color: var(--navyblue);
@@ -185,12 +166,7 @@ text-transform: capitalize;
 .portfolio-navigation-btn{
   font-family: inherit;
   font-style: normal;
-  display: flex;
-padding: 0.75rem 1.5rem;
-justify-content: center;
-align-items: center;
-border-radius: 0.25rem;
-border: 1px solid var(--cornflower, #E7E9FC);
+  
 background: var(--cloud, #F4F4FD);
 color: var(--iris);
 text-align: center;
@@ -223,17 +199,11 @@ font-size: 1.125rem;
 font-weight: 800;
 line-height: 1.3125rem; /* 116.667% */
 letter-spacing: 0.03375rem;
-display: inline-flex;
-height: 1.5rem;
-align-items: center;
-flex-shrink: 0;
+
 }
 
 .footer-text{
-  display: flex;
-width: 16.5rem;
-flex-direction: column;
-flex-shrink: 0;
+ 
 color: var(--cloud, #F4F4FD);
 font-size: 1rem;
 line-height: 1.5rem;
