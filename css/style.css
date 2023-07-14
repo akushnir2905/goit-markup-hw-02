@@ -92,7 +92,7 @@ letter-spacing: 0.02em;
 .main-header{
 font-size: 56px;
 line-height: 1.07; /* 60/56 */
-letter-spacing: 0.07em;
+letter-spacing: 0.02em;
 text-align: center;
 }
 
@@ -122,7 +122,7 @@ cursor:pointer;
 font-size: 20px;
 font-weight: 500;
 line-height: 1.2; /* 120% */
-letter-spacing: 0.03em;
+letter-spacing: 0.02em;
 }
 
 .text{
